@@ -1,0 +1,92 @@
+//professional portfolio
+
+//START BODY
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  border: 20px;
+  padding: 20px;
+
+}
+//END BODY
+
+//START NAV
+.navbar {
+
+}
+
+.nav-link {
+
+}
+//END NAV
+
+//START JUMBOTRON-1
+
+//END JUMBOTRON-1
+
+//START BORDER
+.jumbotron {
+
+}
+
+.jumbo-container {
+
+}
+
+#experience {
+
+}
+
+.display-4 {
+  font-size: 20px;
+}
+
+.lead {
+
+}
+//END BORDER
+
+//START EXPERIENCE
+.container1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  border: 20px;
+  padding: 20px;
+}
+
+ion-icon {
+  font-size: 60px;
+}
+
+#box {
+  padding-bottom: 20px;
+
+}
+
+#top {
+
+}
+//END EXPERIENCE
+
+
+
+
+
+
+
+------------------------------------------------------------------
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
